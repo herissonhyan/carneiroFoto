@@ -1,0 +1,7 @@
+{
+  "name": "Calculadora Caprina IA",
+  "description": "An application to estimate the weight of goats and sheep using either a photo and AI-powered analysis or traditional thoracic circumference measurements. A simple and responsive tool for farmers and veterinarians.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
